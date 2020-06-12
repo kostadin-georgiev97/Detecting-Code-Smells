@@ -1,7 +1,7 @@
 # Detecting Code Smells
 This project employs static analysis to detect "code smells" (warning signs) in Java software systems. The analyser is built using the JavaParser framework and makes extensive use of the Visitor design pattern.
 
-Taxonomy for "Bad Code Smells" can be found at [](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html).
+Taxonomy for "Bad Code Smells" can be found at [http://mikamantyla.eu/BadCodeSmellsTaxonomy.html](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html).
 
 ## The system detects the following code smells:
 | Code smell | Result |
